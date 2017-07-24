@@ -1,11 +1,24 @@
 {
-  "name": "assignment",
+  "name": "datefacts",
   "version": "1.0.0",
-  "description": "Date Facts",
+  "description": "date facts projects",
   "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.0.1",
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jellis720/Date-facts.git"
+  },
   "author": "Josh Ellis",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jellis720/Date-facts/issues"
+  },
+  "homepage": "https://github.com/jellis720/Date-facts#readme"
 }
